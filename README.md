@@ -20,3 +20,4 @@ Developed by **EugeneGtt**.
 * Built natively with **C++** and **Windows API (Win32)** (Not an emulator).
 * Optimized **Double Buffering** rendering to ensure a stable, flicker-free screen.
 * Custom implementation of retro LCD aesthetics using fixed-grid matrices ($10 \times 20$).
+<img width="665" height="838" alt="image" src="https://github.com/user-attachments/assets/a69f0864-0267-44bd-ade0-5501daa6d84c" />
